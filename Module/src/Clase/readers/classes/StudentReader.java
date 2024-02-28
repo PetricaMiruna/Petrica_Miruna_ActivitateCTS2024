@@ -2,7 +2,7 @@ package Clase.readers.classes;
 
 import Clase.Aplicant;
 import Clase.Student;
-import Clase.readers.ApplicantReader;
+import Clase.readers.interfaces.ApplicantReader;
 
 import java.io.File;
 import java.io.FileNotFoundException;

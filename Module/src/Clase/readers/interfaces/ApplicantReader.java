@@ -1,4 +1,4 @@
-package Clase.readers;
+package Clase.readers.interfaces;
 
 import Clase.Aplicant;
 

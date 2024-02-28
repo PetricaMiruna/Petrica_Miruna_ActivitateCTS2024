@@ -1,7 +1,7 @@
 package Main;
 
 import Clase.Aplicant;
-import Clase.readers.ApplicantReader;
+import Clase.readers.interfaces.ApplicantReader;
 import Clase.readers.classes.AngajatReader;
 
 import java.io.FileNotFoundException;
