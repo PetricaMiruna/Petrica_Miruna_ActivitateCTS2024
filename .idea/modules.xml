@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/builder/builder.iml" filepath="$PROJECT_DIR$/builder/builder.iml" />
@@ -7,4 +8,13 @@
       <module fileurl="file://$PROJECT_DIR$/seminar5.iml" filepath="$PROJECT_DIR$/seminar5.iml" />
     </modules>
   </component>
+=======
+    <component name="ProjectModuleManager">
+        <modules>
+            <module fileurl="file://$PROJECT_DIR$/FactoryMethodSem4/FactoryMethodSem4.iml" filepath="$PROJECT_DIR$/FactoryMethodSem4/FactoryMethodSem4.iml" />
+            <module fileurl="file://$PROJECT_DIR$/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4.iml" />
+            <module fileurl="file://$PROJECT_DIR$/SimpleFactorySem4/SimpleFactorySem4.iml" filepath="$PROJECT_DIR$/SimpleFactorySem4/SimpleFactorySem4.iml" />
+        </modules>
+    </component>
+>>>>>>> 24eddf9cad05a8218be022af1c8df9b50491ccac
 </project>
