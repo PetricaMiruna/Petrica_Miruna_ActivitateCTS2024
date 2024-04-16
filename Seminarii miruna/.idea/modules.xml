@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercitii test 1/exercitiiTest1/Banca/Banca.iml" filepath="$PROJECT_DIR$/Exercitii test 1/exercitiiTest1/Banca/Banca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4/FactoryMethodSem4/FactoryMethodSem4.iml" filepath="$PROJECT_DIR$/Seminar4/FactoryMethodSem4/FactoryMethodSem4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii test 1/exercitiiTest1/Farmacie/Farmacie.iml" filepath="$PROJECT_DIR$/Exercitii test 1/exercitiiTest1/Farmacie/Farmacie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar2/Module/Module.iml" filepath="$PROJECT_DIR$/Seminar2/Module/Module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii test 1/exercitiiTest1/Restaurant/Restaurant.iml" filepath="$PROJECT_DIR$/Exercitii test 1/exercitiiTest1/Restaurant/Restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Seminarii miruna.iml" filepath="$PROJECT_DIR$/.idea/Seminarii miruna.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4/SimpleFactorySem4/SimpleFactorySem4.iml" filepath="$PROJECT_DIR$/Seminar4/SimpleFactorySem4/SimpleFactorySem4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii test 1/exercitiiTest1/Sportiv/Sportiv.iml" filepath="$PROJECT_DIR$/Exercitii test 1/exercitiiTest1/Sportiv/Sportiv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii test 1/exercitiiTest1/TransportSTB/TransportSTB.iml" filepath="$PROJECT_DIR$/Exercitii test 1/exercitiiTest1/TransportSTB/TransportSTB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5/builder/builder.iml" filepath="$PROJECT_DIR$/Seminar5/builder/builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5/exercitiul4/exercitiul4.iml" filepath="$PROJECT_DIR$/Seminar5/exercitiul4/exercitiul4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar2/Module/readers/readers.iml" filepath="$PROJECT_DIR$/Seminar2/Module/readers/readers.iml" />
+    </modules>
+  </component>
+</project>
